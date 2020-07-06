@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ccf5ff</color>
+    <color name="colorPrimaryDark">#ccf5ff</color>
+    <color name="colorAccent">#000000</color>
+    <color name="NaniWtf">#D2C8D2</color>
+    <color name="Text">#ffffff</color>
+    <color name="Buttton">#e8bb48</color>
+    <color name="BackGround">#5a5aed</color>
+</resources>
